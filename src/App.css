@@ -13,8 +13,8 @@ body {
   flex-direction: column;
   max-width: 1024px;
   width: 100%;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-  background: white;
+  box-shadow: 0 10px 25px rgba(62, 74, 244, 0.2);
+  background: rgb(249, 247, 247);
   border-radius: 12px;
   overflow: hidden;
   position: relative;
